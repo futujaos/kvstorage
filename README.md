@@ -10,4 +10,4 @@ Implements seminal integrity control, calculating MD5 of all storage data, store
 
 ## Usage
 
-Work in progress
+See the [example](src/main/java/com/futujaos/kvstorage/Example.java).
